@@ -47,6 +47,7 @@ h2 {
     position: absolute;
     top: 25px;
     left: 30px;
+    animation: rotate 3s ease;
 }
 
 .rabbit_1:hover {
@@ -62,6 +63,7 @@ h2 {
     top: 25px;
     right: 29px;
     left: 263px;
+    animation: rotate 3s ease;
 }
 
 .rabbit_2:hover {
@@ -135,6 +137,7 @@ h2 {
     left: 16px;
     right: 274px;
     bottom: 7px;
+    animation: rotate 3s ease;
 }
 
 .magic_wand_2 {
@@ -143,6 +146,7 @@ h2 {
     right: 16px;
     left: 274px;
     bottom: 7px;
+    animation: rotate 3s ease;
 }
 
 .logo {
@@ -189,12 +193,14 @@ h2 {
 .card_5 {
     padding-left: 75px;
     padding-bottom: 10px;
+    animation: rotate 3s ease;
 }
 
 .card_6 {
     padding-right: 75px;
     padding-left: 34px;
     padding-bottom: 10px;
+    animation: rotate 3s ease;
 } 
 
 .third_container {
@@ -271,6 +277,7 @@ h2 {
     top: 308px;
     left: 74px;
     /* right: 42px; */
+    animation: rotate 2s ease;
 }
 
 .card_8 {
@@ -278,6 +285,7 @@ h2 {
     top: 308px;
     right: 74px;
     /* right: 42px; */
+    animation: rotate 3s ease;
 }
 
 .fourth_container {
@@ -303,6 +311,7 @@ h2 {
     top: 20px;
     left: 15px;
     right: 262px;
+    animation: rotate 3s ease;
 }
 
 .magician {
@@ -310,6 +319,7 @@ h2 {
     top: 52px;
     left: 36px;
     right: 37px;
+    animation: rotate 3s ease;
 }
 
 .magician {
@@ -324,6 +334,7 @@ h2 {
     top: 20px;
     left: 210px;
     right: 15px;
+    animation: rotate 3s ease;
 }
 
 .magic_wand__5 {
@@ -331,6 +342,7 @@ h2 {
     top: 152px;
     left: 15px;
     right: 272px;
+    animation: rotate 3s ease;
 }
 
 .magic_foulard {
@@ -338,6 +350,7 @@ h2 {
     top: 159px;
     left: 266px;
     right: 15px;
+    animation: rotate 3s ease;
 }
 
 .saw {
@@ -345,6 +358,7 @@ h2 {
     top: 310px;
     left: 15px;
     right: 223px;
+    animation: rotate 3s ease;
 }
 
 .rabbit_3 {
@@ -352,6 +366,7 @@ h2 {
     top: 350px;
     left: 234px;
     right: 15px;
+    animation: rotate 3s ease;
 }
 
 .footer {
@@ -854,6 +869,7 @@ h2 {
         left: 100px;
         width: 72px;
         height: 136px;
+        
     }
     
     .rabbit_2 {
@@ -2055,6 +2071,17 @@ h2 {
 
     50% {
       opacity: 0;
+    }
+
+}
+
+@keyframes rotate {
+    0%,100% {
+        transform: rotate(40deg);
+    }
+
+    50% {
+        transform: rotate(-40deg);
     }
 
 }
