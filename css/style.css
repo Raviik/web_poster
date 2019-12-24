@@ -1,0 +1,1995 @@
+@import url('https://fonts.googleapis.com/css?family=Alegreya:400,700|Roboto+Slab:300,400&display=swap&subset=cyrillic');
+* {
+    padding: 0;
+    margin: 0 auto;
+    box-sizing: border-box;
+}
+
+.container {
+    width: 320px;
+    background-color: #F777CE;
+    position: relative;
+}
+
+body {
+    font-family: 'Alegreya', 'Roboto Slab', 'serif';
+    background-color: #1e1e49;
+}
+
+h1, h2 {
+    font-family: 'Alegreya', 'Roboto Slab' 'serif';
+}
+
+h1 {
+    font-size: 22px;
+    font-weight: bold;
+    color: #202060;
+    padding-top: 5px;
+    padding-right: 60px;
+    padding-left: 60px;
+    line-height: 88.1%;
+}
+
+h2 {
+    font-size: 22px;
+    font-weight: bold;
+    color: #202060;
+    padding-right: 85px;
+    padding-left: 85px;
+    line-height: 88.1%;
+}
+
+.main {
+    
+}
+
+.rabbit_1 {
+    position: absolute;
+    top: 25px;
+    left: 30px;
+}
+
+.rabbit_2 {
+    position: absolute;
+    top: 25px;
+    right: 29px;
+    left: 263px;
+}
+
+.card_1 {
+    position: absolute;
+    top: 79px;
+    left: 62px;
+    right: 235px;
+}
+
+.card_2 {
+    position: absolute;
+    top: 79px;
+    right: 62px;
+    left: 235px;
+}
+
+.card_3 {
+    position: absolute;
+    top: 401px;
+    left: 62px;
+    right: 235px;
+}
+
+.card_4 {
+    position: absolute;
+    top: 401px;
+    right: 62px;
+    left: 235px;
+}
+
+.magic_ball__1 {
+    position: absolute;
+    left: 12px;
+    right: 283px;
+    bottom: 196px;
+}
+
+.magic_ball__2 {
+    position: absolute;
+    right: 12px;
+    left: 283px;
+    bottom: 196px;
+}
+
+.hat_wrapper {
+    margin-top: 34px;
+    margin-right: 23px;
+    margin-left: 23px;
+}
+
+.magic_wand_1 {
+    position: absolute;
+    top: 427px;
+    left: 16px;
+    right: 274px;
+    bottom: 7px;
+}
+
+.magic_wand_2 {
+    position: absolute;
+    top: 427px;
+    right: 16px;
+    left: 274px;
+    bottom: 7px;
+}
+
+.logo {
+    /* position: absolute; */
+    /* bottom: 13px;
+    top: 409px;
+    left: 117px;
+    right: 117px; */
+    text-align: center;
+    margin-top: 5px;
+    padding-bottom: 10px;
+}
+
+.second_container{
+    width: 320px;
+    background-color: #40009B;
+    position: relative;
+}
+
+.second_section__title {
+    color: #ffd740;
+    font-size: 22px;
+    font-weight: bold;
+    padding-top: 5px;
+    padding-right: 82px;
+    padding-left: 82px;
+    line-height: 88.1%;
+    padding-bottom: 10px;
+}
+
+.hat-with-a-stars {
+    padding-right: 41px;
+    padding-left: 41px;
+}
+
+.card_5 {
+    padding-left: 75px;
+    padding-bottom: 10px;
+}
+
+.card_6 {
+    padding-right: 75px;
+    padding-left: 34px;
+    padding-bottom: 10px;
+} 
+
+.third_container {
+    width: 320px;
+    background-color: #ffd740;
+    position: relative;
+    height: 414px;
+}
+
+.third_section__title {
+    font-size: 22px;
+    font-weight: bold;
+    color: #202060;
+    padding-top: 5px;
+    padding-right: 77px;
+    padding-left: 77px;
+    line-height: 88.1%;
+    padding-bottom: 15px;
+}
+
+.magic_wand__4 {
+    position: absolute;
+    top: 40px;
+    left: 120px;
+    right: 120px;
+    /* padding-bottom: 15px; */
+}
+
+.main_magic__ball {
+    position: absolute;
+    top: 67px;
+    left: 77px;
+    right: 77px;
+}
+
+.magic_wand__3 {
+    position: absolute;
+    top: 60px;
+    left: 10px;
+    right: 255px;
+}
+
+.magic_broom {
+    position: absolute;
+    top: 55px;
+    left: 238px;
+    right: 20px;
+}
+
+.dove {
+    position: absolute;
+    top: 178px;
+    left: 10px;
+    right: 260px;
+}
+
+.hat_with__a___ear {
+    position: absolute;
+    top: 178px;
+    left: 245px;
+    right: 15px;
+}
+
+.card_7 {
+    position: absolute;
+    top: 308px;
+    left: 74px;
+    /* right: 42px; */
+}
+
+.card_8 {
+    position: absolute;
+    top: 308px;
+    right: 74px;
+    /* right: 42px; */
+}
+
+.fourth_container {
+    width: 320px;
+    background-color: #202060;
+    position: relative;
+    height: 459px;
+}
+
+.fourth_container__title {
+    font-size: 22px;
+    font-weight: bold;
+    color: #ffd740;
+    padding-top: 5px;
+    padding-right: 87px;
+    padding-left: 87px;
+    line-height: 88.1%;
+    padding-bottom: 15px;
+}
+
+.hand {
+    position: absolute;
+    top: 20px;
+    left: 15px;
+    right: 262px;
+}
+
+.magician {
+    position: absolute;
+    top: 52px;
+    left: 36px;
+    right: 37px;
+}
+
+.dove_2 {
+    position: absolute;
+    top: 20px;
+    left: 210px;
+    right: 15px;
+}
+
+.magic_wand__5 {
+    position: absolute;
+    top: 152px;
+    left: 15px;
+    right: 272px;
+}
+
+.magic_foulard {
+    position: absolute;
+    top: 159px;
+    left: 266px;
+    right: 15px;
+}
+
+.saw {
+    position: absolute;
+    top: 310px;
+    left: 15px;
+    right: 223px;
+}
+
+.rabbit_3 {
+    position: absolute;
+    top: 350px;
+    left: 234px;
+    right: 15px;
+}
+
+.footer {
+    font-family: 'Roboto Slab';
+    background-color: #F777CE;
+    width: 320px;
+    height: 21px;
+    position: relative;
+}
+.footer p {
+    font-weight: 400;
+    font-size: 5px;
+}
+
+.footer span {
+    font-weight: 300;
+}
+
+.date {
+    position: absolute;
+    left: 9px;
+    top: 7px;
+}
+
+.place {
+    position: absolute;
+    left: 117px;
+    top: 7px;
+}
+
+.number {
+    position: absolute;
+    left: 231px;
+    top: 7px;
+}
+
+/* // ПЛАНШЕТ // */
+@media (min-width: 768px) and (max-width: 1024px) {
+   
+    .container {
+        width: 768px;
+        height: 1024px;
+        background-color: #F777CE;
+        position: relative;
+    }
+    
+    body {
+        font-family: 'Alegreya', 'Roboto Slab', 'serif';
+    }
+    
+    h1, h2 {
+        font-family: 'Alegreya', 'Roboto Slab' 'serif';
+    }
+    
+    h1 {
+        font-size: 56px;
+        font-weight: bold;
+        color: #202060;
+        padding-top: 10px;
+        padding-right: 135px;
+        padding-left: 135px;
+        line-height: 88.1%;
+    }
+    
+    h2 {
+        font-size: 56px;
+        font-weight: bold;
+        color: #202060;
+        padding-right: 189px;
+        padding-left: 189px;
+        line-height: 88.1%;
+    }
+    
+    .main {
+        
+    }
+
+    .main_hat {
+        position: absolute;
+        top: 148px;
+        width: 613px;
+        height: 696px;
+        left: 77px;
+        right: 77px;
+    }
+    
+    .rabbit_1 {
+        position: absolute;
+        top: 65px;
+        left: 45px;
+        width: 55px;
+        height: 103px;
+    }
+    
+    .rabbit_2 {
+        position: absolute;
+        top: 65px;
+        right: 45px;
+        left: 659px;
+        width: 64px;
+        height: 103px;
+    }
+    
+    .card_1 {
+        position: absolute;
+        top: 168px;
+        left: 150px;
+        right: 565px;
+        width: 53px;
+        height: 74px;
+    }
+    
+    .card_2 {
+        position: absolute;
+        top: 168px;
+        right: 150px;
+        left: 565px;
+        width: 53px;
+        height: 74px;
+    }
+    
+    .card_3 {
+        position: absolute;
+        top: 867px;
+        left: 150px;
+        right: 565px;
+        width: 53x;
+        height: 74px;
+    }
+    
+    .card_4 {
+        position: absolute;
+        top: 867px;
+        right: 150px;
+        left: 565px;
+        width: 53px;
+        height: 74px;
+    }
+    
+    .magic_ball__1 {
+        position: absolute;
+        left: 45px;
+        right: 663px;
+        top: 506px;
+        width: 60px;
+        height: 72px;
+    }
+    
+    .magic_ball__2 {
+        position: absolute;
+        top: 506px;
+        right: 45px;
+        left: 663px;
+        width: 60px;
+        height: 72px;
+    }
+    
+    .hat_wrapper {
+        margin-top: 34px;
+        margin-right: 23px;
+        margin-left: 23px;
+    }
+    
+    .magic_wand_1 {
+        position: absolute;
+        top: 924px;
+        left: 45px;
+        right: 656px;
+        width: 67px;
+        height: 90px;
+    }
+    
+    .magic_wand_2 {
+        position: absolute;
+        top: 924px;
+        right: 45px;
+        left: 656px;
+        width: 67px;
+        height: 90px;
+    }
+    
+    .logo {
+        position: absolute;
+        top: 440px;
+        left: 130px;
+        right: 382px;
+        /* text-align: center; */
+        padding-bottom: 10px;
+        width: 203px;
+        height: 127px;
+    }
+    
+    .second_container{
+        width: 768px;
+        height: 1024px;
+        background-color: #40009B;
+        position: relative;
+    }
+    
+    .second_section__title {
+        color: #ffd740;
+        font-size: 56px;
+        font-weight: bold;
+        padding-top: 10px;
+        padding-right: 183px;
+        padding-left: 183px;
+        line-height: 88.1%;
+        padding-bottom: 30px;
+    }
+    
+    .hat-with-a-stars {
+        /* padding-right: 128px;
+        padding-left: 128px; */
+        position: absolute;
+        left: 25px;
+        right: 100px;
+        width: 711px;
+        height: 708px;
+    }
+    
+    .card_5 {
+        position: absolute;
+        left: 250px;
+        bottom: 45px;
+        right: 86px;
+        /* width: 133px; */
+        height: 185px;
+    }
+    
+    .card_6 {
+        position: absolute;
+        bottom: 45px;
+        left: 86px;
+        right: 250px;
+        /* width: 133px; */
+        height: 185px;
+    } 
+    
+    .third_container {
+        width: 768px;
+        height: 1024px;
+        background-color: #ffd740;
+        position: relative;
+    }
+    
+    .third_section__title {
+        font-size: 56px;
+        font-weight: bold;
+        color: #202060;
+        padding-top: 10px;
+        padding-right: 174px;
+        padding-left: 173px;
+        line-height: 88.1%;
+        padding-bottom: 30px;
+    }
+    
+    .magic_wand__4 {
+        position: absolute;
+        top: 100px;
+        left: 289px;
+        right: 290px;
+        /* width: 27px; */
+        height: 27px;
+        /* padding-bottom: 15px; */
+    }
+    
+    .main_magic__ball {
+        position: absolute;
+        top: 143px;
+        left: 184px;
+        right: 185px;
+        width: 399px;
+        height: 510px;
+    }
+    
+    .magic_wand__3 {
+        position: absolute;
+        top: 123px;
+        left: 15px;
+        right: 608px;
+        width: 144px;
+        height: 192px;
+    }
+    
+    .magic_broom {
+        position: absolute;
+        top: 115px;
+        left: 574px;
+        right: 44px;
+        /* width: 67px; */
+        height: 214px;
+    }
+    
+    .dove {
+        position: absolute;
+        top: 407px;
+        left: 25px;
+        right: 618px;
+        width: 122px;
+        height: 131px;
+    }
+    
+    .hat_with__a___ear {
+        position: absolute;
+        top: 390px;
+        left: 599px;
+        right: 25px;
+        width: 144px;
+        height: 167px;
+    }
+    
+    .card_7 {
+        position: absolute;
+        top: 705px;
+        left: 178px;
+        right: 433px;
+        width: 156px;
+        height: 218px;
+    }
+    
+    .card_8 {
+        position: absolute;
+        top: 705px;
+        left: 433px;
+        right: 178px;
+        width: 156px;
+        height: 218px;
+    }
+    
+    .fourth_container {
+        width: 768px;
+        height: 1024px;
+        background-color: #202060;
+        position: relative;
+    }
+    
+    .fourth_container__title {
+        font-size: 56px;
+        font-weight: bold;
+        color: #ffd740;
+        padding-top: 10px;
+        padding-right: 200px;
+        padding-left: 200px;
+        line-height: 88.1%;
+        /* padding-bottom: 30px; */
+    }
+    
+    .hand {
+        position: absolute;
+        top: 66px;
+        left: 52px;
+        right: 626px;
+        width: 90px;
+        height: 144px;
+    }
+    
+    .magician {
+        position: absolute;
+        top: 124px;
+        left: 117px;
+        right: 117px;
+        width: 534px;
+        height: 829px;
+    }
+    
+    .dove_2 {
+        position: absolute;
+        top: 66px;
+        left: 510px;
+        right: 52px;
+        width: 206px;
+        height: 157px;
+    }
+    
+    .magic_wand__5 {
+        position: absolute;
+        top: 376px;
+        left: 52px;
+        right: 675px;
+        width: 70px;
+        height: 190px;
+    }
+    
+    .magic_foulard {
+        position: absolute;
+        top: 369px;
+        left: 620px;
+        right: 52px;
+        width: 95px;
+        height: 182px;
+    }
+    
+    .saw {
+        position: absolute;
+        top: 701px;
+        left: 52px;
+        right: 538px;
+        width: 178px;
+        height: 293px;
+    }
+    
+    .rabbit_3 {
+        position: absolute;
+        top: 774px;
+        left: 562px;
+        right: 52px;
+        width: 154px;
+        height: 202px;
+    }
+    
+    .footer {
+        font-family: 'Roboto Slab';
+        background-color: #F777CE;
+        width: 768px;
+        height: 40px;
+        position: relative;
+    }
+    .footer p {
+        font-weight: 400;
+        font-size: 12px;
+    }
+    
+    .footer span {
+        font-weight: 300;
+    }
+    
+    .date {
+        position: absolute;
+        left: 30px;
+        top: 14px;
+    }
+    
+    .place {
+        position: absolute;
+        left: 282px;
+        top: 14px;
+    }
+    
+    .number {
+        position: absolute;
+        left: 546px;
+        top: 14px;
+    }
+} 
+
+@media (min-width: 1024px) and (max-width: 1366px) {
+
+    .container {
+        width: 1024px;
+        height: 768px;
+        background-color: #F777CE;
+        position: relative;
+       
+    }
+    
+    body {
+        font-family: 'Alegreya', 'Roboto Slab', 'serif';
+    }
+    
+    h1, h2 {
+        font-family: 'Alegreya', 'Roboto Slab' 'serif';
+    }
+    
+    h1 {
+        font-size: 56px;
+        font-weight: bold;
+        color: #202060;
+        padding-top: 10px;
+        padding-right: 263px;
+        padding-left: 263px;
+        line-height: 88.1%;
+    }
+    
+    h2 {
+        font-size: 56px;
+        font-weight: bold;
+        color: #202060;
+        padding-right: 322px;
+        padding-left: 323px;
+        line-height: 88.1%;
+    }
+    
+    .main {
+        
+    }
+
+    .main_hat {
+        position: absolute;
+        top: 140px;
+        width: 455px;
+        height: 517px;
+        left: 284px;
+        right: 284px;
+    }
+    
+    .rabbit_1 {
+        position: absolute;
+        top: 35px;
+        right: 851px;
+        left: 100px;
+        width: 72px;
+        height: 136px;
+    }
+    
+    .rabbit_2 {
+        position: absolute;
+        top: 34px;
+        right: 100px;
+        left: 839px;
+        width: 84px;
+        height: 135px;
+    }
+    
+    .card_1 {
+        position: absolute;
+        top: 146px;
+        left: 250px;
+        right: 705px;
+        width: 69px;
+        height: 94px;
+    }
+    
+    .card_2 {
+        position: absolute;
+        top: 146px;
+        right: 250px;
+        left: 705px;
+        width: 69px;
+        height: 94px;
+    }
+    
+    .card_3 {
+        position: absolute;
+        top: 592px;
+        left: 250px;
+        right: 705px;
+        width: 69px;
+        height: 94px;
+    }
+    
+    .card_4 {
+        position: absolute;
+        top: 592px;
+        right: 250px;
+        left: 705px;
+        width: 69px;
+        height: 94px;
+    }
+    
+    .magic_ball__1 {
+        position: absolute;
+        left: 80px;
+        right: 869px;
+        top: 353px;
+        width: 75px;
+        height: 92px;
+    }
+    
+    .magic_ball__2 {
+        position: absolute;
+        left: 869px;
+        right: 80px;
+        top: 353px;
+        width: 75px;
+        height: 92px;
+    }
+    
+    .hat_wrapper {
+        margin-top: 34px;
+        margin-right: 23px;
+        margin-left: 23px;
+    }
+    
+    .magic_wand_1 {
+        position: absolute;
+        top: 629px;
+        left: 60px;
+        right: 875px;
+        width: 88px;
+        height: 118px;
+    }
+    
+    .magic_wand_2 {
+        position: absolute;
+        top: 629px;
+        left: 875px;
+        right: 60px;
+        width: 88px;
+        height: 118px;
+    }
+    
+    .logo {
+        position: absolute;
+        top: 330px;
+        left: 145px;
+        right: 441px;
+        /* text-align: center; */
+        /* padding-bottom: 10px; */
+        width: 142px;
+        height: 89px;
+    }
+    
+    .second_container{
+        width: 1024px;
+        height: 768px;
+        background-color: #40009B;
+        position: relative;
+    }
+    
+    .second_section__title {
+        color: #ffd740;
+        font-size: 56px;
+        font-weight: bold;
+        padding-top: 10px;
+        padding-right: 313px;
+        padding-left: 313px;
+        line-height: 88.1%;
+    }
+    
+    .hat-with-a-stars {
+        /* padding-right: 128px;
+        padding-left: 128px; */
+        /* position: absolute;
+        left: 45px;
+        right: 100px; */
+        margin-left: 45px;
+        width: 646px;
+        /* height: 627px; */
+        transform: translateX(-25px) rotate(-45deg);
+    }
+    
+    .card_5 {
+        position: absolute;
+        top: 89px;
+        left: 700px;
+        bottom: 85px;
+        right: 50px;
+        /* width: 186px; */
+        height: 259px;
+    }
+    
+    .card_6 {
+        position: absolute;
+        top: 433px;
+        left: 745px;
+        bottom: 85px;
+        right: 50px;
+        /* width: 186px; */
+        height: 259px;
+    } 
+    
+    .third_container {
+        width: 1024px;
+        height: 706px;
+        background-color: #ffd740;
+        position: relative;
+    }
+    
+    .third_section__title {
+        font-size: 56px;
+        font-weight: bold;
+        color: #202060;
+        padding-top: 10px;
+        padding-right: 302px;
+        padding-left: 302px;
+        line-height: 88.1%;
+    }
+    
+    .magic_wand__4 {
+        position: absolute;
+        top: 92px;
+        left: 292px;
+        right: 541px;
+        /* width: 27px; */
+        height: 28px;
+        /* padding-bottom: 15px; */
+    }
+    
+    .main_magic__ball {
+        position: absolute;
+        top: 149px;
+        left: 192px;
+        right: 424px;
+        width: 407px;
+        height: 516px;
+    }
+    
+    .magic_wand__3 {
+        position: absolute;
+        top: 127px;
+        left: 10px;
+        right: 805px;
+        width: 154px;
+        /* height: 138px; */
+    }
+    
+    .magic_broom {
+        position: absolute;
+        top: 120px;
+        left: 591px;
+        right: 279px;
+        /* width: 67px; */
+        height: 218px;
+    }
+    
+    .dove {
+        position: absolute;
+        top: 397px;
+        left: 50px;
+        right: 849px;
+        width: 126px;
+        height: 131px;
+    }
+    
+    .hat_with__a___ear {
+        position: absolute;
+        top: 379px;
+        left: 637px;
+        right: 249px;
+        width: 146px;
+        height: 166px;
+    }
+    
+    .card_7 {
+        position: absolute;
+        top: 91px;
+        left: 817px;
+        right: 20px;
+        width: 189px;
+        bottom: 33px;
+        height: 262px;
+    }
+    
+    .card_8 {
+        position: absolute;
+        top: 387px;
+        left: 817px;
+        right: 20px;
+        width: 189px;
+        height: 262px;
+    }
+    
+    .fourth_container {
+        width: 1024px;
+        height: 768px;
+        background-color: #202060;
+        position: relative;
+    }
+    
+    .fourth_container__title {
+        font-size: 56px;
+        font-weight: bold;
+        color: #ffd740;
+        padding-top: 10px;
+        padding-right: 328px;
+        padding-left: 328px;
+        line-height: 88.1%;
+        /* padding-bottom: 30px; */
+    }
+    
+    .hand {
+        position: absolute;
+        top: 45px;
+        left: 50px;
+        right: 853px;
+        width: 119px;
+        height: 182px;
+    }
+    
+    .magician {
+        position: absolute;
+        top: 95px;
+        left: 313px;
+        right: 313px;
+        width: 398px;
+        height: 617px;
+    }
+    
+    .dove_2 {
+        position: absolute;
+        top: 37px;
+        left: 691px;
+        right: 50px;
+        width: 283px;
+        height: 218px;
+    }
+    
+    .magic_wand__5 {
+        position: absolute;
+        top: 286px;
+        left: 161px;
+        right: 699px;
+        /* width: 55px; */
+        height: 217px;
+    }
+    
+    .magic_foulard {
+        position: absolute;
+        top: 267px;
+        left: 749px;
+        right: 160px;
+        width: 114px;
+        height: 217px;
+    }
+    
+    .saw {
+        position: absolute;
+        top: 400px;
+        left: 30px;
+        right: 800px;
+        width: 195px;
+        height: 321px;
+        transform: rotate(2deg);
+    }
+    
+    .rabbit_3 {
+        position: absolute;
+        top: 499px;
+        left: 802px;
+        right: 50px;
+        width: 171px;
+        height: 224px;
+    }
+    
+    .footer {
+        font-family: 'Roboto Slab';
+        background-color: #F777CE;
+        width: 1024px;
+        height: 50px;
+        position: relative;
+    }
+    .footer p {
+        font-weight: 400;
+        font-size: 16px;
+    }
+    
+    .footer span {
+        font-weight: 300;
+    }
+    
+    .date {
+        position: absolute;
+        left: 29px;
+        top: 14px;
+    }
+    
+    .place {
+        position: absolute;
+        left: 345px;
+        top: 14px;
+    }
+    
+    .number {
+        position: absolute;
+        left: 722px;
+        top: 14px;
+    }
+
+}
+
+@media (min-width: 1440px) and (max-width: 1680px) {
+
+    .container {
+        width: 1440px;
+        height: 950px;
+        background-color: #F777CE;
+        position: relative;
+       
+    }
+    
+    body {
+        font-family: 'Alegreya', 'Roboto Slab', 'serif';
+    }
+    
+    h1, h2 {
+        font-family: 'Alegreya', 'Roboto Slab' 'serif';
+    }
+    
+    h1 {
+        font-size: 72px;
+        font-weight: bold;
+        color: #202060;
+        padding-top: 10px;
+        padding-right: 400px;
+        padding-left: 400px;
+        line-height: 88.1%;
+    }
+    
+    h2 {
+        font-size: 72px;
+        font-weight: bold;
+        color: #202060;
+        padding-right: 475px;
+        padding-left: 475px;
+        line-height: 88.1%;
+    }
+    
+    .main {
+        
+    }
+
+    .main_hat {
+        position: absolute;
+        top: 166px;
+        width: 557px;
+        height: 616px;
+        left: 441px;
+        right: 441px;
+    }
+    
+    .rabbit_1 {
+        position: absolute;
+        top: 57px;
+        right: 1245px;
+        left: 112px;
+        width: 83px;
+        height: 156px;
+    }
+    
+    .rabbit_2 {
+        position: absolute;
+        top: 57px;
+        right: 112px;
+        left: 1230px;
+        width: 97px;
+        height: 156px;
+    }
+    
+    .card_1 {
+        position: absolute;
+        top: 196px;
+        left: 298px;
+        right: 1062px;
+        width: 79px;
+        height: 109px;
+    }
+    
+    .card_2 {
+        position: absolute;
+        top: 196px;
+        right: 298px;
+        left: 1062px;
+        width: 79px;
+        height: 109px;
+    }
+    
+    .card_3 {
+        position: absolute;
+        top: 667px;
+        left: 303px;
+        right: 1057px;
+        width: 79px;
+        height: 109px;
+    }
+    
+    .card_4 {
+        position: absolute;
+        top: 667px;
+        right: 303px;
+        left: 1057px;
+        width: 79px;
+        height: 109px;
+    }
+    
+    .magic_ball__1 {
+        position: absolute;
+        left: 175px;
+        right: 1179px;
+        top: 416px;
+        width: 86px;
+        height: 106px;
+    }
+    
+    .magic_ball__2 {
+        position: absolute;
+        right: 175px;
+        left: 1179px;
+        top: 416px;
+        width: 86px;
+        height: 106px;
+    }
+    
+    .hat_wrapper {
+        margin-top: 34px;
+        margin-right: 23px;
+        margin-left: 23px;
+    }
+    
+    .magic_wand_1 {
+        position: absolute;
+        top: 768px;
+        left: 117px;
+        right: 1221px;
+        width: 101px;
+        height: 137px;
+    }
+    
+    .magic_wand_2 {
+        position: absolute;
+        top: 768px;
+        right: 117px;
+        left: 1221px;
+        width: 101px;
+        height: 137px;
+    }
+    
+    .logo {
+        position: absolute;
+        top: 405px;
+        left: 145px;
+        right: 441px;
+        /* text-align: center; */
+        /* padding-bottom: 10px; */
+        width: 161px;
+        /* height: 101px; */
+    }
+    
+    .second_container{
+        width: 1440px;
+        height: 920px;
+        background-color: #40009B;
+        position: relative;
+    }
+    
+    .second_section__title {
+        color: #ffd740;
+        font-size: 72px;
+        font-weight: bold;
+        padding-top: 10px;
+        padding-right: 464px;
+        padding-left: 464px;
+        line-height: 88.1%;
+    }
+    
+    .hat-with-a-stars {
+        /* padding-right: 128px;
+        padding-left: 128px; */
+        /* position: absolute;
+        left: 45px;
+        right: 100px; */
+        margin-left: 180px;
+        width: 768px;
+        /* height: 627px; */
+        transform: translateX(-25px) rotate(-45deg);
+    }
+    
+    .card_5 {
+        position: absolute;
+        top: 117px;
+        left: 1052px;
+        bottom: 101px;
+        right: 185px;
+        /* width: 186px; */
+        height: 309px;
+    }
+    
+    .card_6 {
+        position: absolute;
+        top: 526px;
+        left: 1090px;
+        /* bottom: 85px; */
+        right: 185px;
+        /* width: 186px; */
+        height: 309px;
+    } 
+    
+    .third_container {
+        width: 1440px;
+        height: 900px;
+        background-color: #ffd740;
+        position: relative;
+    }
+    
+    .third_section__title {
+        font-size: 72px;
+        font-weight: bold;
+        color: #202060;
+        padding-top: 10px;
+        padding-right: 450px;
+        padding-left: 450px;
+        line-height: 88.1%;
+    }
+    
+    .magic_wand__4 {
+        position: absolute;
+        top: 123px;
+        left: 404px;
+        right: 795px;
+        /* width: 27px; */
+        height: 35px;
+        /* padding-bottom: 15px; */
+    }
+    
+    .main_magic__ball {
+        position: absolute;
+        top: 194px;
+        left: 279px;
+        right: 648px;
+        width: 511px;
+        height: 648px;
+    }
+    
+    .magic_wand__3 {
+        position: absolute;
+        top: 167px;
+        left: 60px;
+        right: 1126px;
+        width: 193px;
+        /* height: 138px; */
+    }
+    
+    .magic_broom {
+        position: absolute;
+        top: 159px;
+        left: 780px;
+        right: 467px;
+        /* width: 67px; */
+        height: 274px;
+    }
+    
+    .dove {
+        position: absolute;
+        top: 507px;
+        left: 99px;
+        right: 1183px;
+        width: 158px;
+        height: 162px;
+    }
+    
+    .hat_with__a___ear {
+        position: absolute;
+        top: 483px;
+        left: 837px;
+        right: 420px;
+        width: 183px;
+        height: 210px;
+    }
+    
+    .card_7 {
+        position: absolute;
+        top: 121px;
+        left: 1064px;
+        right: 138px;
+        width: 237px;
+        bottom: 55px;
+        height: 329px;
+    }
+    
+    .card_8 {
+        position: absolute;
+        top: 505px;
+        left: 1064px;
+        right: 138px;
+        width: 237px;
+        height: 329px;
+    }
+    
+    .fourth_container {
+        width: 1440px;
+        height: 900px;
+        background-color: #202060;
+        position: relative;
+    }
+    
+    .fourth_container__title {
+        font-size: 72px;
+        font-weight: bold;
+        color: #ffd740;
+        padding-top: 10px;
+        padding-right: 484px;
+        padding-left: 484px;
+        line-height: 88.1%;
+        /* padding-bottom: 30px; */
+    }
+    
+    .hand {
+        position: absolute;
+        top: 77px;
+        left: 75px;
+        right: 1206px;
+        width: 159px;
+        height: 242px;
+    }
+    
+    .magician {
+        position: absolute;
+        top: 110px;
+        left: 471px;
+        right: 471px;
+        width: 497px;
+        height: 771px;
+    }
+    
+    .dove_2 {
+        position: absolute;
+        top: 73px;
+        left: 964px;
+        right: 98px;
+        width: 377px;
+        height: 289px;
+    }
+    
+    .magic_wand__5 {
+        position: absolute;
+        top: 289px;
+        left: 243px;
+        right: 1031px;
+        /* width: 55px; */
+        height: 284px;
+    }
+    
+    .magic_foulard {
+        position: absolute;
+        top: 396px;
+        left: 1206px;
+        right: 82px;
+        width: 151px;
+        height: 289px;
+    }
+    
+    .saw {
+        position: absolute;
+        top: 469px;
+        left: 58px;
+        right: 1102px;
+        width: 244px;
+        height: 402px;
+        transform: rotate(-7deg);
+    }
+    
+    .rabbit_3 {
+        position: absolute;
+        top: 583px;
+        left: 932px;
+        right: 280px;
+        width: 227px;
+        height: 298px;
+    }
+    
+    .footer {
+        font-family: 'Roboto Slab';
+        background-color: #F777CE;
+        width: 1440px;
+        height: 60px;
+        position: relative;
+    }
+    .footer p {
+        font-weight: 400;
+        font-size: 18px;
+    }
+    
+    .footer span {
+        font-weight: 300;
+    }
+    
+    .date {
+        position: absolute;
+        left: 50px;
+        top: 18px;
+    }
+    
+    .place {
+        position: absolute;
+        left: 534px;
+        top: 18px;
+    }
+    
+    .number {
+        position: absolute;
+        left: 1083px;
+        top: 18px;
+    }
+
+}
+
+@media (min-width: 1680px) and (max-width: 1920px) {
+
+    .container {
+        width: 1920px;
+        height: 1080px;
+        background-color: #F777CE;
+        position: relative;
+       
+    }
+    
+    body {
+        font-family: 'Alegreya', 'Roboto Slab', 'serif';
+    }
+    
+    h1, h2 {
+        font-family: 'Alegreya', 'Roboto Slab' 'serif';
+    }
+    
+    h1 {
+        font-size: 92px;
+        font-weight: bold;
+        color: #202060;
+        padding-top: 10px;
+        padding-right: 553px;
+        padding-left: 552px;
+        line-height: 88.1%;
+    }
+    
+    h2 {
+        font-size: 92px;
+        font-weight: bold;
+        color: #202060;
+        padding-right: 647px;
+        padding-left: 647px;
+        line-height: 88.1%;
+    }
+    
+    .main {
+        
+    }
+
+    .main_hat {
+        position: absolute;
+        top: 212px;
+        width: 651px;
+        height: 739px;
+        left: 634px;
+        right: 634px;
+    }
+    
+    .rabbit_1 {
+        position: absolute;
+        top: 113px;
+        right: 1573px;
+        left: 247px;
+        width: 83px;
+        height: 156px;
+    }
+    
+    .rabbit_2 {
+        position: absolute;
+        top: 113px;
+        right: 246px;
+        left: 1557px;
+        width: 116px;
+        height: 186px;
+    }
+    
+    .card_1 {
+        position: absolute;
+        top: 259px;
+        left: 571px;
+        right: 1254px;
+        width: 95px;
+        height: 130px;
+    }
+    
+    .card_2 {
+        position: absolute;
+        top: 259px;
+        right: 571px;
+        left: 1257px;
+        width: 95px;
+        height: 130px;
+    }
+    
+    .card_3 {
+        position: absolute;
+        top: 843px;
+        left: 571px;
+        right: 1257px;
+        width: 95px;
+        height: 130px;
+    }
+    
+    .card_4 {
+        position: absolute;
+        top: 843px;
+        right: 571px;
+        left: 1257px;
+        width: 95px;
+        height: 130px;
+    }
+    
+    .magic_ball__1 {
+        position: absolute;
+        left: 326px;
+        right: 1491px;
+        top: 566px;
+        width: 102px;
+        height: 127px;
+    }
+    
+    .magic_ball__2 {
+        position: absolute;
+        right: 326px;
+        left: 1491px;
+        top: 566px;
+        width: 102px;
+        height: 127px;
+    }
+    
+    .hat_wrapper {
+        margin-top: 34px;
+        margin-right: 23px;
+        margin-left: 23px;
+    }
+    
+    .magic_wand_1 {
+        position: absolute;
+        top: 898px;
+        left: 235px;
+        right: 1563px;
+        width: 121px;
+        height: 163px;
+    }
+    
+    .magic_wand_2 {
+        position: absolute;
+        top: 898px;
+        right: 235px;
+        left: 1563px;
+        width: 121px;
+        height: 163px;
+    }
+    
+    .logo {
+        position: absolute;
+        top: 475px;
+        left: 145px;
+        right: 441px;
+        /* text-align: center; */
+        /* padding-bottom: 10px; */
+        width: 161px;
+        /* height: 101px; */
+    }
+    
+    .second_container{
+        width: 1920px;
+        height: 1100px;
+        background-color: #40009B;
+        position: relative;
+    }
+    
+    .second_section__title {
+        color: #ffd740;
+        font-size: 92px;
+        font-weight: bold;
+        padding-top: 10px;
+        padding-right: 628px;
+        padding-left: 628px;
+        line-height: 88.1%;
+    }
+    
+    .hat-with-a-stars {
+        /* padding-right: 128px;
+        padding-left: 128px; */
+        /* position: absolute;
+        left: 45px;
+        right: 100px; */
+        margin-left: 320px;
+        width: 880px;
+        /* height: 627px; */
+        transform: translateX(-25px) rotate(-45deg);
+    }
+    
+    .card_5 {
+        position: absolute;
+        top: 140px;
+        left: 1401px;
+        bottom: 122px;
+        right: 250px;
+        /* width: 186px; */
+        height: 372px;
+    }
+    
+    .card_6 {
+        position: absolute;
+        top: 634px;
+        left: 1440px;
+        /* bottom: 122px; */
+        right: 250px;
+        /* width: 186px; */
+        height: 372px;
+    } 
+    
+    .third_container {
+        width: 1920px;
+        height: 1100px;
+        background-color: #ffd740;
+        position: relative;
+    }
+    
+    .third_section__title {
+        font-size: 92px;
+        font-weight: bold;
+        color: #202060;
+        padding-top: 10px;
+        padding-right: 614px;
+        padding-left: 615px;
+        line-height: 88.1%;
+    }
+    
+    .magic_wand__4 {
+        position: absolute;
+        top: 140px;
+        left: 555px;
+        right: 1067px;
+        /* width: 27px; */
+        height: 43px;
+        /* padding-bottom: 15px; */
+    }
+    
+    .main_magic__ball {
+        position: absolute;
+        top: 234px;
+        left: 401px;
+        right: 885px;
+        width: 632px;
+        height: 801px;
+    }
+    
+    .magic_wand__3 {
+        position: absolute;
+        top: 199px;
+        left: 130px;
+        right: 1475px;
+        width: 239px;
+        /* height: 138px; */
+    }
+    
+    .magic_broom {
+        position: absolute;
+        top: 189px;
+        left: 1021px;
+        right: 661px;
+        /* width: 67px; */
+        height: 339px;
+    }
+    
+    .dove {
+        position: absolute;
+        top: 618px;
+        left: 181px;
+        right: 1546px;
+        width: 192px;
+        height: 206px;
+    }
+    
+    .hat_with__a___ear {
+        position: absolute;
+        top: 591px;
+        left: 1059px;
+        right: 633px;
+        width: 227px;
+        height: 258px;
+    }
+    
+    .card_7 {
+        position: absolute;
+        top: 124px;
+        left: 1421px;
+        right: 204px;
+        width: 293px;
+        bottom: 70px;
+        height: 407px;
+    }
+    
+    .card_8 {
+        position: absolute;
+        top: 603px;
+        left: 1421px;
+        right: 204px;
+        width: 293px;
+        height: 407px;
+    }
+    
+    .fourth_container {
+        width: 1920px;
+        height: 1080px;
+        background-color: #202060;
+        position: relative;
+    }
+    
+    .fourth_container__title {
+        font-size: 92px;
+        font-weight: bold;
+        color: #ffd740;
+        padding-top: 10px;
+        padding-right: 657px;
+        padding-left: 657px;
+        line-height: 88.1%;
+        /* padding-bottom: 30px; */
+    }
+    
+    .hand {
+        position: absolute;
+        top: 80px;
+        left: 100px;
+        right: 1626px;
+        width: 194px;
+        height: 296px;
+    }
+    
+    .magician {
+        position: absolute;
+        top: 120px;
+        left: 666px;
+        right: 665px;
+        width: 588px;
+        height: 912px;
+    }
+    
+    .dove_2 {
+        position: absolute;
+        top: 80px;
+        left: 1360px;
+        right: 100px;
+        width: 460px;
+        height: 352px;
+    }
+    
+    .magic_wand__5 {
+        position: absolute;
+        top: 368px;
+        left: 480px;
+        right: 1182px;
+        /* width: 55px; */
+        height: 389px;
+    }
+    
+    .magic_foulard {
+        position: absolute;
+        top: 430px;
+        left: 1305px;
+        right: 440px;
+        width: 151px;
+        height: 289px;
+    }
+    
+    .saw {
+        position: absolute;
+        top: 546px;
+        left: 100px;
+        right: 1531px;
+        width: 295px;
+        height: 488px;
+        transform: rotate(-7deg);
+    }
+    
+    .rabbit_3 {
+        position: absolute;
+        top: 649px;
+        left: 1561px;
+        right: 100px;
+        width: 278px;
+        height: 364px;
+    }
+    
+    .footer {
+        font-family: 'Roboto Slab';
+        background-color: #F777CE;
+        width: 1920px;
+        height: 70px;
+        position: relative;
+    }
+    .footer p {
+        font-weight: 400;
+        font-size: 26px;
+    }
+    
+    .footer span {
+        font-weight: 300;
+    }
+    
+    .date {
+        position: absolute;
+        left: 108px;
+        top: 18px;
+    }
+    
+    .place {
+        position: absolute;
+        left: 693px;
+        top: 18px;
+    }
+    
+    .number {
+        position: absolute;
+        left: 1370px;
+        top: 18px;
+    }
+
+}
