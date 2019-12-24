@@ -49,12 +49,28 @@ h2 {
     left: 30px;
 }
 
+.rabbit_1:hover {
+  -o-transform: skew(-20deg, 20deg);
+  -ms-transform: skew(-20deg, 20deg);
+  -moz-transform: skew(-20deg, 20deg);
+  -webkit-transform: skew(-20deg, 20deg);
+  transform: skew(-20deg, 20deg);
+}
+
 .rabbit_2 {
     position: absolute;
     top: 25px;
     right: 29px;
     left: 263px;
 }
+
+.rabbit_2:hover {
+    -o-transform: skew(-20deg, 20deg);
+    -ms-transform: skew(-20deg, 20deg);
+    -moz-transform: skew(-20deg, 20deg);
+    -webkit-transform: skew(-20deg, 20deg);
+    transform: skew(20deg, -20deg);
+  }
 
 .card_1 {
     position: absolute;
@@ -1670,8 +1686,8 @@ h2 {
         top: 113px;
         right: 1573px;
         left: 247px;
-        width: 83px;
-        height: 156px;
+        width: 116px;
+        height: 186px;
     }
     
     .rabbit_2 {
@@ -2033,6 +2049,10 @@ h2 {
 
 @keyframes blink {
    
+    25% {
+        transform: translateX(45px) rotateX(30px);
+    }
+
     50% {
       opacity: 0;
     }
